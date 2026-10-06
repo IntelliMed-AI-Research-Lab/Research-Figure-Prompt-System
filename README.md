@@ -1198,6 +1198,11 @@ Generate the refined figure.
 
 ------------------------------------------------------------------------
 
+
+# 7.5 .Then i can wirte this prompt 
+``` text
+please provide me this in "4k image so that every single can part can be easily understood "
+'''
 # 8. Quick Version of PART 3
 
 If you are in a hurry, use this shorter version after uploading the
