@@ -776,8 +776,65 @@ When ready, ask:
 ------------------------------------------------------------------------
 
 # 5. PART 2 --- RESEARCH-SPECIFIC CONTENT
+#### --> at first the condition 
+=== REUSABLE ADD-ON: TOP-VENUE METHOD FIGURE ===
+
+1. BACKBONE IDEA: One thick main flow line enters at the far left and exits at
+   the far right through all panels. A mathematical object changes form along it
+   ([input] -> [representation] -> [output] -> [score] -> [decision]).
+
+2. EQUATION PILLS: Rounded white pills sit ON the wires, each with a corner tag
+   ("Eq. N"). Leave pill interiors EMPTY; I overlay typeset LaTeX afterward.
+   Never let the model write math itself.
+
+3. WIRE LANGUAGE (one style per meaning, used consistently):
+   thick solid = main flow; medium solid, second color = [method-specific
+   operation]; thin solid = [computation/metric]; dashed = reference path and
+   ablations; dotted = statistics / confidence / feedback.
+   Orthogonal or bezier routing, >= 12 px clearance, junction dots at splits,
+   no crossings except deliberate ones.
+
+4. PANELS: N rounded dashed pastel panels, a colored header tag on each top-left
+   border ("[X] view"), panel title inside, (a)-(n) labels below.
+
+5. 3D MODULES: Isometric blocks (30 degrees, light from top-left). Block volume
+   is proportional to the real quantity it represents (size, width, cost).
+   Use visual motifs for operations: sparse empty cells = pruning, stair-step
+   lattice = quantization, translucent cells = dropout.
+
+6. KEY-MESSAGE EMPHASIS: One bracket or highlight marks the paper's central
+   contrast ("same X, different Y"), visually the most prominent element.
+
+7. REFERENCE VS VARIANT: Dashed reference path runs across the top into the
+   comparison panel; ablations drawn as dashed gray ghost blocks.
+
+8. LEGEND STRIP: One sample line per wire type + swatches for reference,
+   variant, ablation, equation overlay.
+
+9. HIERARCHY: titles > module labels > wire labels; all text horizontal and
+   unclipped; no axis tick numbers.
+
+10. HARD CONSTRAINTS: Use ONLY the numbers and labels I supply. No invented
+    results, equations, or modules. Unrenderable label -> gray placeholder bar.
+
+11. NEGATIVE: no photos, humans, robots, glossy renders, neon, stacked shadows,
+    spaghetti wires, overlapping labels, watermarks.
+
+12. DELETE-ORDER if cluttered: [list your least important elements here, in the
+    order they should be dropped].
+    
+###-->  === PAPER-SPECIFIC SPEC ===
+CANVAS: [aspect ratio, e.g. 16:6]
+BACKBONE TOKEN CHAIN: [x -> x' -> ... -> decision]
+PANELS: [(a) name | color | tag] ... one line each
+MODULES PER PANEL: [3D objects, labels, and exact numbers allowed]
+EQUATION PILLS: [Eq. tags and where each sits on a wire]
+KEY CONTRAST BRACKET: ["same X, different Y"]
+DELETE-ORDER: [first thing to drop, second, third...]
 
 ## This section changes for every research paper
+
+
 
 After Part 1, provide the scientific description of the figure.
 
