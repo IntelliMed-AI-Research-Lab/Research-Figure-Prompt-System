@@ -847,98 +847,7 @@ Use this structure as a template:
 PART 2 — DIAGRAM-SPECIFIC RESEARCH CONTENT
 ===============================================================
 
-IMPORTANT:
-
-EVERYTHING BELOW THIS LINE IS SPECIFIC TO THE CURRENT
-RESEARCH PAPER.
-
-KEEP PART 1 UNCHANGED.
-
-Use the permanent visual rules from PART 1.
-
-Use the following scientific information to construct
-the figure:
-
----------------------------------------------------------------
-RESEARCH TITLE
----------------------------------------------------------------
-
-[Insert research/project title]
-
----------------------------------------------------------------
-FIGURE PURPOSE
----------------------------------------------------------------
-
-[Explain what the figure must communicate]
-
----------------------------------------------------------------
-INPUT / DATA
----------------------------------------------------------------
-
-[Dataset, input, samples, features, images, signals, etc.]
-
----------------------------------------------------------------
-PREPROCESSING
----------------------------------------------------------------
-
-[Preprocessing steps]
-
----------------------------------------------------------------
-MODEL / METHOD
----------------------------------------------------------------
-
-[Model architecture, algorithm, framework, methodology]
-
----------------------------------------------------------------
-MAIN WORKFLOW
----------------------------------------------------------------
-
-[Describe the complete scientific process]
-
----------------------------------------------------------------
-IMPORTANT COMPONENTS
----------------------------------------------------------------
-
-[List every component that must appear]
-
----------------------------------------------------------------
-EQUATIONS
----------------------------------------------------------------
-
-[Insert equations exactly as required]
-
----------------------------------------------------------------
-RESULTS / METRICS
----------------------------------------------------------------
-
-[Insert only verified results that should appear]
-
----------------------------------------------------------------
-OUTPUT
----------------------------------------------------------------
-
-[Describe the final output]
-
----------------------------------------------------------------
-SPECIAL VISUAL REQUIREMENTS
----------------------------------------------------------------
-
-[Anything scientifically specific about the layout]
-
----------------------------------------------------------------
-SCIENTIFIC RESTRICTIONS
----------------------------------------------------------------
-
-Do not invent any scientific information.
-
-Use only the information provided above.
-
-Preserve all numbers, labels, equations, model names,
-metrics, and relationships exactly.
-
-===============================================================
-END OF PART 2
-===============================================================
+This part i will just paste the prommpt for my research specific Prompt
 ```
 
 ------------------------------------------------------------------------
@@ -948,6 +857,7 @@ END OF PART 2
 At the end of the research-specific description, add:
 
 ``` text
+Listen they are blured and somehow not undestanble ....And listen: the header should not be colorful; they should be simple [ 1st header], [ 2nd header], [ 3rd header], and [ 4th header] ..
 ===============================================================
 FINAL GENERATION COMMAND
 ===============================================================
