@@ -776,7 +776,7 @@ When ready, ask:
 ------------------------------------------------------------------------
 
 # 5. PART 2 --- RESEARCH-SPECIFIC CONTENT
-#### --> at first the condition 
+#### --> at first, the condition 
 === REUSABLE ADD-ON: TOP-VENUE METHOD FIGURE ===
 
 1. BACKBONE IDEA: One thick main flow line enters at the far left and exits at
@@ -831,6 +831,8 @@ MODULES PER PANEL: [3D objects, labels, and exact numbers allowed]
 EQUATION PILLS: [Eq. tags and where each sits on a wire]
 KEY CONTRAST BRACKET: ["same X, different Y"]
 DELETE-ORDER: [first thing to drop, second, third...]
+
+The header should not be colorful, they should be simple [ header names ]. And please provide me this in "4k image so that every single can part can be easily understood
 
 ## This section changes for every research paper
 
